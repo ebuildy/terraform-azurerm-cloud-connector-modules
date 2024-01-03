@@ -6,8 +6,8 @@ FEATURES:
 ENHANCEMENTS:
 * add: var zssupport_server to nsg module
 * add: zsec automatic lookup zssupport server IP for destination NSG rule by Zscaler Cloud
-
-
+* add: Standard_D2ds_v4 and Standard_D2ds_v5 size support
+* change: Default recommended small CC instance to Standard_D2ds_v5
 
 ## v0.4.1 (February 29, 2024)
 
